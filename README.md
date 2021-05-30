@@ -7,7 +7,7 @@ SOFTWARE REQUIREMENTS:
 
 Operating System : Any version of Windows NT family (4.0 &above)
 
-Frontend : HTML,CSS, JAVASCRIPT
+Frontend : <i class="fab fa-html5"></i>HTML,CSS, JAVASCRIPT
 
 Backend : Python
 
@@ -18,21 +18,17 @@ Database : SQL
 To Run the Project :
 python manage.py runserver
 
-LOGIN PAGE
+SCREENSHOTS
+
 ![login page](https://user-images.githubusercontent.com/72904996/120095250-9105a280-c142-11eb-912d-8ac699d7077a.JPG)
 
-MENU PAGE
 ![menu page](https://user-images.githubusercontent.com/72904996/120095270-b5fa1580-c142-11eb-862f-c30b1b171362.JPG)
 
-COMPOSE PAGE
 ![compose page](https://user-images.githubusercontent.com/72904996/120095282-c14d4100-c142-11eb-88d9-79af11214120.JPG)
 
-INBOX PAGE
 ![inbox page](https://user-images.githubusercontent.com/72904996/120095293-ce6a3000-c142-11eb-964c-f1b279651f24.JPG)
 
-SENT MAILS PAGE
 ![sent mails page](https://user-images.githubusercontent.com/72904996/120095304-dd50e280-c142-11eb-9e0f-5c35d3f005fb.JPG)
 
-TRASH FOLDER
 ![trash page](https://user-images.githubusercontent.com/72904996/120095314-ea6dd180-c142-11eb-9137-ff7ed9d1062f.JPG)
 
