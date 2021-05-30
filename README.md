@@ -7,8 +7,8 @@ SOFTWARE REQUIREMENTS:
 
 Operating System : Any version of Windows NT family (4.0 &above)
 
-Frontend : <i class="fab fa-html5">HTML</i>HTML,CSS, JAVASCRIPT
-
+Frontend : HTML,CSS, JAVASCRIPT
+<i class="material-icons">attachment</i>
 Backend : Python
 
 Framework : Django
