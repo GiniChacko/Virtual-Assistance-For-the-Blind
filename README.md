@@ -8,7 +8,8 @@ SOFTWARE REQUIREMENTS:
 Operating System : Any version of Windows NT family (4.0 &above)
 
 Frontend : HTML,CSS, JAVASCRIPT
-<i class="material-icons">attachment</i>
+<i class="fa fa-envelope" aria-hidden="true"></i>
+
 Backend : Python
 
 Framework : Django
