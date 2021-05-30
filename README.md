@@ -7,8 +7,10 @@ SOFTWARE REQUIREMENTS:
 
 Operating System : Any version of Windows NT family (4.0 &above)
 
-Frontend : HTML,CSS, JAVASCRIPT
-<i class="fa fa-envelope" aria-hidden="true"></i>
+Frontend : ![image](https://user-images.githubusercontent.com/72904996/120095590-5d2b7c80-c144-11eb-9a9c-99a64c76ca53.png)
+
+HTML,CSS, JAVASCRIPT
+
 
 Backend : Python
 
